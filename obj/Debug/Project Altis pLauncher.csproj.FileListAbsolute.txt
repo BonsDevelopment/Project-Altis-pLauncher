@@ -1,0 +1,9 @@
+C:\Users\Bon\Documents\Visual Studio 2013\Projects2\Project Altis pLauncher\Project Altis pLauncher\bin\Debug\Project Altis pLauncher.exe.config
+C:\Users\Bon\Documents\Visual Studio 2013\Projects2\Project Altis pLauncher\Project Altis pLauncher\bin\Debug\Project Altis pLauncher.exe
+C:\Users\Bon\Documents\Visual Studio 2013\Projects2\Project Altis pLauncher\Project Altis pLauncher\bin\Debug\Project Altis pLauncher.pdb
+C:\Users\Bon\Documents\Visual Studio 2013\Projects2\Project Altis pLauncher\Project Altis pLauncher\obj\Debug\Project_Altis_pLauncher.Form1.resources
+C:\Users\Bon\Documents\Visual Studio 2013\Projects2\Project Altis pLauncher\Project Altis pLauncher\obj\Debug\Project_Altis_pLauncher.Properties.Resources.resources
+C:\Users\Bon\Documents\Visual Studio 2013\Projects2\Project Altis pLauncher\Project Altis pLauncher\obj\Debug\Project Altis pLauncher.csproj.GenerateResource.Cache
+C:\Users\Bon\Documents\Visual Studio 2013\Projects2\Project Altis pLauncher\Project Altis pLauncher\obj\Debug\Project Altis pLauncher.exe
+C:\Users\Bon\Documents\Visual Studio 2013\Projects2\Project Altis pLauncher\Project Altis pLauncher\obj\Debug\Project Altis pLauncher.pdb
+C:\Users\Bon\Documents\Visual Studio 2013\Projects2\Project Altis pLauncher\Project Altis pLauncher\obj\Debug\Project Altis pLauncher.csprojResolveAssemblyReference.cache
